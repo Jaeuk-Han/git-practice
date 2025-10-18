@@ -1,0 +1,25 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python / Node
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+node_modules/
+dist/
+build/
+coverage/
+
+# Archives / temp
+*.zip
+*.tar
+*.tar.gz
+*.tmp
+tmp/
